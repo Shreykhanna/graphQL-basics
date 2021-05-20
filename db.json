@@ -1,0 +1,11 @@
+{"users":[
+    {"id":"1", "firstname":"Samantha" ,"age":26,"companyId":1},
+    {"id":"2", "firstname":"John" ,"age":28,"companyId":2},
+    {"id":"3", "firstname":"Jay" , "age":25,"companyId":1}
+],
+"companies" : [
+    {"id":1,"name":"Google","description" :"search"},
+    {"id":2,"name":"Microsoft","description":"windows OS"}
+]
+}
+
