@@ -2,8 +2,8 @@
   "users": [
     {
       "id": "1",
-      "firstName": "Samantha",
-      "age": 26,
+      "firstName": "Shrey",
+      "age": "27",
       "companyId": 1
     },
     {
